@@ -44,7 +44,7 @@
     "doctrine": "^2.0.2",
     "eslint-plugin-markdown": "^1.0.0-beta.7",
     "eslint-scope": "^3.7.1",
-    "espree": "^3.5.2",
+    "espree": "^6.1.0",
     "esquery": "^1.0.0",
     "estraverse": "^4.2.0",
     "esutils": "^2.0.2",
