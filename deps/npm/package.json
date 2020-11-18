@@ -41,7 +41,7 @@
     "aproba": "~1.2.0",
     "archy": "~1.0.0",
     "bluebird": "~3.5.0",
-    "cacache": "~9.2.9",
+    "cacache": "~13.0.0",
     "call-limit": "~1.1.0",
     "chownr": "~1.0.1",
     "cli-table2": "~0.2.0",
