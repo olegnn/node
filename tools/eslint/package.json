@@ -50,7 +50,7 @@
     "esutils": "^2.0.2",
     "file-entry-cache": "^2.0.0",
     "functional-red-black-tree": "^1.0.1",
-    "glob": "^7.1.2",
+    "glob": "^9.0.0",
     "globals": "^11.0.1",
     "ignore": "^3.3.3",
     "imurmurhash": "^0.1.4",
